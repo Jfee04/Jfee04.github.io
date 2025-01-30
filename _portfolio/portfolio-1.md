@@ -18,4 +18,4 @@ collection: portfolio
 * Determine what systems the rider needs to be able to control
 * Spec Motor Controller and PDU
 * Design comunication scheme between bike subsystems
-* Coc up High Voltage concactor circuit
+* Moc up High Voltage concactor circuit
