@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-smaller headshot
+og no image
