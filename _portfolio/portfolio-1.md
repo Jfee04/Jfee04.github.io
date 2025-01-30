@@ -1,7 +1,20 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Bolt Electric Motorcycle"
+excerpt: "A student design team that builds electric motorcycles and dirt bikes<br/><img src='/images/BOLTBikeAtDyno.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+My projects on the team
+=====
+    Wheelie controll, Lead September 2023 - December 2024
+    ---------
+        * Developed action plan to ensure safe wheelies for achieving maximum acceleration
+        * Designed, tested, and implemented software to interface with the VN-100 Inertial Measurement Unit
+        * Managed a small team to build a prototype solution on an electric scooter
+
+    Dirtbike Control System Design, January 2025 - Present
+    --------
+        * Determine what systems the rider needs to be able to control
+        * Spec Motor Controller and PDU
+        * Design comunication scheme between bike subsystems
+        * Coc up High Voltage concactor circuit
