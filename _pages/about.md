@@ -7,18 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m John Feeney, a Computer Engineering student at Virginia Tech, specializing in Controls, Robotics, and Autonomy. With a strong foundation in embedded systems, analog circuit design, and software development, I am passionate about solving complex engineering challenges through hands-on projects and innovative design.
-
+Hi, I’m John Feeney, a Computer Engineering student at Virginia Tech, specializing in Controls, Robotics, and Autonomy. With a strong foundation in embedded systems, analog circuit design, and software development. My hobies include electronics projects, board games, and hiking.
 ## My Experience ##
-I’ve had the opportunity to work on diverse projects, from designing wheelie control systems for electric motorcycles as part of Virginia Tech BOLT, to developing a 3-band equalizer and Class-D amplifier as a personal project. Currently, I’m working with BOLT to design the control systems for our first-generation electric dirt bike, where I:
+I’ve had the opportunity to work on diverse projects, from designing wheelie control systems for electric motorcycles as part of Virginia Tech BOLT, to developing a 3-band equalizer and Class-D amplifier as a personal project. Currently, I’m working with BOLT to design the control systems for our first-generation electric dirt bike
 
-Determine the necessary rider control systems
-Specify the motor controller and power distribution unit (PDU)
-Design the communication scheme between bike subsystems
-Mock up the high-voltage contactor circuit
-My experience also includes robotics software development, where I led my high school team in implementing computer vision-based localization and control algorithms for competition-winning robots.
-
-Beyond technical work, I enjoy leading teams, mentoring others, and pushing the boundaries of engineering design. Whether it’s developing custom PCB layouts, optimizing embedded systems, or fine-tuning an audio circuit for minimal distortion, I love diving into the details that make projects both functional and efficient.
+My experience also includes robotics software development, where I led my high school team in implementing computer vision-based localization and control algorithms for competition-winning robots. My ongoing personal projects are leaning PCB design with Altiumn and desgining a modular analog drum machine based on the Euro Rack standard. 
 
 ## Skills & Expertise ##
 🔹 Embedded Systems & Control Software
