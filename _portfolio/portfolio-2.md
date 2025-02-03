@@ -1,6 +1,6 @@
 ---
 title: "Equalizer and Amplifier"
-excerpt: "3 band equalizer and Class-D amplifier with spectrogram<br/><img src='/images/BOLTBikeAtDyno.png'>"
+excerpt: "3 band equalizer and Class-D amplifier with spectrogram<br/><img src='/images/HomeAudio.jpeg'>"
 collection: portfolio
 ---
 
